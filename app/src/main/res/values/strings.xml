@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application25</string>
+    <string name="help_info">Make Sure the file is .csv before clicking import \n Location Example :/storage/emulated/0/rar/TheCsvFile\nThis app is made by 404_willbefound for VIT HACK 2020</string>
+    <string name="hint1">\tEnter the location on your device </string>
+    <string name="hint2">\tBy Default it saves to\n/storage/emulated/0/Android/data/com.applicationname/Files </string>
+    <string-array name="template_names">
+        <item>Template - 1</item>
+        <item>Template - 2</item>
+    </string-array>
+    <string-array name="template_description">
+        <item>Beautiful Artistic Certificate</item>
+        <item>Golden Star Certificate</item>
+    </string-array>
+
+
+</resources>
